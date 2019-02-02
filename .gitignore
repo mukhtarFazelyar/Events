@@ -1,6 +1,6 @@
-   .idea/
- pom.xml
- configuration.properties
+.idea/
+pom.xml
+configuration.properties
 # Eclipse
 .classpath
 .project
